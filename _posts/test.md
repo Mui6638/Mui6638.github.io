@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 投稿実験
 ---
 
